@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "135998587449",
+    "firebase_url": "https://chatmini-182f5.firebaseio.com",
+    "project_id": "chatmini-182f5",
+    "storage_bucket": "chatmini-182f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135998587449:android:4ba9e1ddbc3f6919",
+        "android_client_info": {
+          "package_name": "hcmute.com.chatmini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135998587449-750hfo75rdt61n3mrb02tvi6kb4jsh0o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "135998587449-750hfo75rdt61n3mrb02tvi6kb4jsh0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXZ3qemn48fB_lxmn6tWNFqwFD_LzUUQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
